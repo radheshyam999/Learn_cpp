@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "cstring": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "cstdio": "cpp",
+        "algorithm": "cpp",
+        "stack": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "bitset": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp"
+    }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="io" Database="" Version="10000">
+  <Project Name="DSA" Path="../../DSA/DSA/DSA.project" Active="No"/>
+  <Project Name="io" Path="../../DSA/io/io.project" Active="No"/>
+  <Project Name="DSA" Path="../../DSA/DSA/DSA.project" Active="No"/>
+  <Project Name="Tree" Path="../../DSA/Tree/Tree.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DSA" ConfigName="Debug"/>
+      <Project Name="io" ConfigName="Debug"/>
+      <Project Name="DSA" ConfigName="Debug"/>
+      <Project Name="Tree" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DSA" ConfigName="Release"/>
+      <Project Name="io" ConfigName="Release"/>
+      <Project Name="DSA" ConfigName="Release"/>
+      <Project Name="Tree" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
