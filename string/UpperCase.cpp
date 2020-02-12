@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
-class UpperCase
-{
+class UpperCase{
 private:
     /* data */
 public:

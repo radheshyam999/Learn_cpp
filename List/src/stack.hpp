@@ -41,7 +41,7 @@ class stack{
 	 }
 	 // this is for peeking data for stack
       T peek(){return tail->value;}
-      bool isEmpety(){
+      bool isEmpaty(){
               if(head == nullptr){return true;}
               return false;}
 
